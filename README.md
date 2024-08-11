@@ -1,4 +1,4 @@
-### Hello there 👋, My name is Liu
+### Hello there 👋, I'm Liu Pitkänen
 #### From Finland
 
 I'm studying Information Technology at Metropolia University of Applied Sciences, the largest university of applied sciences in Finland, located in the capital city, Helsinki.
