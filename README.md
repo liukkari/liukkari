@@ -8,7 +8,7 @@ I'm studying Information Technology at Metropolia University of Applied Sciences
 * ☕ Java
 * ✏️ HTML
 * 💄 CSS
-*📝 Javascript    
+* 📝 Javascript    
 
 
 
