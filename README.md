@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Liu
 #### From Finland
-![From Finland].[(https://github.com/liukkari/liukkari/blob/main/after_coding_is_done.jpg)](https://github.com/liukkari/liukkari/blob/main/ItIsDone.jpg)
+![From Finland].(https://github.com/liukkari/liukkari/blob/main/after_coding_is_done.jpg)
 
 I'm studying Information Technology at Metropolia University of Applied Sciences, the largest university of applied sciences in Finland, located in the capital city, Helsinki.
 
