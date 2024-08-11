@@ -1,5 +1,12 @@
-## Hello there 👋🌌⚔️
+### Hi there 👋, I'm Liu
+#### From Finland
+![From Finland](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Liu from Finland, studying Information Technology at Metropolia University of Applied Sciences, the largest university of applied sciences in Finland, located in the capital city, Helsinki.
+I'm studying Information Technology at Metropolia University of Applied Sciences, the largest university of applied sciences in Finland, located in the capital city, Helsinki.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liukkari)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python / Java / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/liukkari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suphitcha-liu-pitkänen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/liu.pitkanen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/liukuva/)  
